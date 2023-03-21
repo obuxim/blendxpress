@@ -1,0 +1,32 @@
+{
+  "name": "blendxpress",
+  "version": "1.0.0",
+  "description": "Express based backend meta framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/obuxim/blendxpress.git"
+  },
+  "keywords": [
+    "blendx",
+    "blendxpress",
+    "backend",
+    "meta",
+    "framework",
+    "neocon",
+    "obuxim"
+  ],
+  "author": "Neocon Technologies Limited",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obuxim/blendxpress/issues"
+  },
+  "homepage": "https://github.com/obuxim/blendxpress#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
